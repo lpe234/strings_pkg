@@ -1,9 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-### Example user template template
-### Example user template
+.idea/
 
-# IntelliJ project files
-.idea
-*.iml
-out
-gen
+dist/
+build/
+*.egg-info/
